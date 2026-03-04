@@ -1,7 +1,8 @@
 <div align="center">
-# 💫 Hey i'm Komal👋🏻:
+<h1># 💫 Hey i'm Komal👋🏻:</h1></div>
+<hr>
 I'm currently a Student Building my personal portfolio and contributing to open source Projects.<br>I'm Looking to collaborate on any web development projects involving Javascript and python and innovative UI/UX designs.<br>I'm Looking for help with Understanding complex backend architecture or system design. <br>I'm Currently learning Data Structures, algorithms, and clean code principles.<br>Ask me about Web Development , CSS tips or VS Code extensions.  <br>I once Spent three hours debugging a semicolon.
-</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/komalll.22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-shirke-611a87385 ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@FantasyFabel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shirkekomal22@gmail.com) 
