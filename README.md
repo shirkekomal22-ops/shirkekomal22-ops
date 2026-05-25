@@ -1,7 +1,10 @@
 <div align="center">
 <h1># 💫 Hey i'm Komal👋🏻:</h1></div>
 <hr>
-I'm currently a Student Building my personal portfolio and contributing to open source Projects.<br>I'm Looking to collaborate on any web development projects involving Javascript and python and innovative UI/UX designs.<br>I'm Looking for help with Understanding complex backend architecture or system design. <br>I'm Currently learning Data Structures, algorithms, and clean code principles.<br>Ask me about Web Development , CSS tips or VS Code extensions.  <br>I once Spent three hours debugging a semicolon.
+I'm currently a Student Building my personal portfolio and contributing to open source Projects.<br>I'm Looking to collaborate on any web development projects involving Javascript and python and innovative UI/UX designs.<br>I'm Looking for help with Understanding complex backend architecture or system design. <br>I'm Currently learning Data Structures, algorithms, and clean code principles.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Backend+Engineer;Spring+Boot+%7C+Java;Building+Scalable+Systems;DSA+%7C+System+Design+Focused" />
+</p>
 
 
 ## 🌐 Socials:
