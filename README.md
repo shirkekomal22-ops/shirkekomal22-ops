@@ -3,7 +3,7 @@
 <hr>
 I'm currently a Student Building my personal portfolio and contributing to open source Projects.<br>I'm Looking to collaborate on any web development projects involving Javascript and python and innovative UI/UX designs.<br>I'm Looking for help with Understanding complex backend architecture or system design. <br>I'm Currently learning Data Structures, algorithms, and clean code principles.
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Spring+Boot+%7C+Java;Building+Scalable+Systems;DSA+%7C+System+Design+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Frontend+Engineer+%7C+Java;Building+Scalable+Systems;DSA+%7C+Frontend+Engineer+Focused" />
 </p>
 
 
