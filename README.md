@@ -1,5 +1,5 @@
 <div align="center">
-<h1># 💫 Hey i'm Komal👋🏻:</h1></div>
+<h1> 💫 Hey i'm Komal👋🏻:</h1></div>
 <hr>
 I'm currently a Student Building my personal portfolio and contributing to open source Projects.<br>I'm Looking to collaborate on any web development projects involving Javascript and python and innovative UI/UX designs.<br>I'm Looking for help with Understanding complex backend architecture or system design. <br>I'm Currently learning Data Structures, algorithms, and clean code principles.
 <p align="center">
